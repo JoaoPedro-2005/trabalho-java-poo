@@ -6,9 +6,14 @@ Uma jornada completa pela linguagem que transformou o desenvolvimento de softwar
 
 ## Sumário
 
+### Parte 1
 * [Origem e História do Java](#origem-e-história-do-java)
 * [Principais Versões do Java](#principais-versões-do-java)
+
+### Parte 2
 * [Ambientes de Desenvolvimento (IDEs)](#ambientes-de-desenvolvimento-ides)
+
+### Parte 3
 * [O Paradigma Orientado a Objetos (POO)](#o-paradigma-orientado-a-objetos-poo)
 
   * [Classe — O Molde dos Objetos](#classe--o-molde-dos-objetos)
@@ -16,6 +21,8 @@ Uma jornada completa pela linguagem que transformou o desenvolvimento de softwar
   * [Encapsulamento — Protegendo os Dados](#encapsulamento--protegendo-os-dados)
   * [Herança — Reutilizando Código](#herança--reutilizando-código)
   * [Polimorfismo — Múltiplas Formas](#polimorfismo--múltiplas-formas)
+
+### Parte 4
 * [Mercado de Trabalho Java no Brasil](#mercado-de-trabalho-java-no-brasil)
 * [Onde o Java é Utilizado](#onde-o-java-é-utilizado)
 * [Tecnologias e Frameworks Exigidos](#tecnologias-e-frameworks-exigidos)
