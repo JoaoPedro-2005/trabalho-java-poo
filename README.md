@@ -2,6 +2,9 @@
 
 Uma jornada completa pela linguagem que transformou o desenvolvimento de software — do passado ao presente, da teoria à prática.
 
+<img width="850" height="510" alt="image" src="https://github.com/user-attachments/assets/27ce5174-9d71-401e-b003-942423614c87" />
+
+
 ---
 
 ## Sumário
@@ -31,6 +34,9 @@ Uma jornada completa pela linguagem que transformou o desenvolvimento de softwar
 ---
 
 ## Origem e História do Java
+
+<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/88ef42aa-852b-4cfe-bd58-d3ff64e3a893" />
+
 
 ### 1991 — O Início
 
@@ -98,6 +104,8 @@ Site: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 * Consome muita memória RAM
 * A versão completa (Ultimate) é paga
 
+<img width="2552" height="1308" alt="image" src="https://github.com/user-attachments/assets/dcc00d78-5102-4dda-95e7-c19c39546bfc" />
+
 ---
 
 ### Eclipse IDE
@@ -116,6 +124,8 @@ Site: [https://www.eclipse.org/](https://www.eclipse.org/)
 * Interface mais pesada
 * Considerada menos moderna
 
+<img width="1952" height="1072" alt="image" src="https://github.com/user-attachments/assets/58429c37-ee88-4c25-9739-4ce64b9a109e" />
+
 ---
 
 ### Apache NetBeans
@@ -132,6 +142,8 @@ Site: [https://netbeans.apache.org/](https://netbeans.apache.org/)
 
 * Evolui mais lentamente
 * Possui menos plugins modernos
+
+<img width="513" height="318" alt="image" src="https://github.com/user-attachments/assets/71c22e8a-737a-4595-bf95-3a3fdf3b7b9f" />
 
 ---
 
@@ -289,6 +301,8 @@ Java segue sendo uma das linguagens mais valorizadas pelo mercado brasileiro, co
 ---
 
 ## Onde o Java é Utilizado
+
+<img width="705" height="706" alt="image" src="https://github.com/user-attachments/assets/9bcd6ade-0125-4bc3-9035-31469250552d" />
 
 Java está em toda parte:
 
