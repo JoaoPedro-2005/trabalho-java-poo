@@ -4,7 +4,7 @@ Uma jornada completa pela linguagem que transformou o desenvolvimento de softwar
 
 ---
 
-## 📑 Sumário
+## Sumário
 
 * [Origem e História do Java](#origem-e-história-do-java)
 * [Principais Versões do Java](#principais-versões-do-java)
